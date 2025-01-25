@@ -1,3 +1,3 @@
 ## Hi, I am Jasmine 👋👩‍💻
 
-![me](https://github.com/jasminekgohil/jasmine.gif)
+<img src="./assets/jasmine.gif"/>
