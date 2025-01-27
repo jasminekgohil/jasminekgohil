@@ -6,7 +6,7 @@ I am a dynamic and results-driven Analytics and Business Intelligence profession
 budgeting, forecasting, and project management. 
 
 - 🎓 I recently graduated with from Boston University with a Master's in Business Analytics 
-- 🌐 Visit my portfolio website to get to know me better and learn my story! - [jasminekgohil.com](https://jasminekgohil.com)
+- 🌐 Visit my portfolio website to get to know me better and learn my story! - [jasminegohil.com](https://jasminegohil.com)
 - 🌍 I currently reside at Boston, MA 
 - 📊 I am currently looking for Financial Analyst / Business Analyst roles
 - 📄 Check out my [resume!](Jasmine_Gohil_Financial_Analyst.pdf)
