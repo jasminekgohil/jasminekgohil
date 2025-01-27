@@ -1,4 +1,4 @@
-![introduction](Jasmine_new.gif)
+![introduction](Jasmine_latest.gif)
 
 **About me**
 
