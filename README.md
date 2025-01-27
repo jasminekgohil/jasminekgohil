@@ -6,16 +6,16 @@ I am a dynamic and results-driven Analytics and Business Intelligence profession
 budgeting, forecasting, and project management. 
 
 - 🎓 I recently graduated with from Boston University with a Master's in Business Analytics 
-- 🌐 Visit my portfolio website to get know me know better and my story!
+- 🌐 Visit my portfolio website to get know me know better and my story! 
 - 🌍 I currently reside at Boston, MA 
 - 📊 I am currently looking for Financial Analyst / Business Analyst roles
 - 📄 Check out my [resume!](Jasmine_Gohil_Financial_Analyst.pdf)
 
-**Skills**
+**Languages and Tools**
 
 ![My Skills](https://go-skill-icons.vercel.app/api/icons?i=bigquery,bokeh,canva,excel,gcp,github,googleanalytics,jira,jupyter,lucidchart,mysql,numpy,oracle,pandas,pinecone,powerpoint,python,sas,scikitlearn,seaborn,snowflake,tableau,vscode,word)
 
-**Connect with me** 
+**Let's Connect** 
 
 <a href="https://www.linkedin.com/in/jasminegohil/" target="_blank" rel="noopener noreferrer">
   <img src="https://go-skill-icons.vercel.app/api/icons?i=linkedin" alt="LinkedIn" style="width: 30px; height: 30px;">
