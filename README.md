@@ -9,7 +9,7 @@ budgeting, forecasting, and project management.
 - 🌐 Visit my portfolio website to get know me know better and my story!
 - 🌍 I currently reside at Boston, MA 
 - 📊 I am currently looking for Financial Analyst / Business Analyst roles
-- 📄 Check out my [resume!]()
+- 📄 Check out my [resume!](Jasmine_Gohil_Financial_Analyst.pdf)
 
 **Skills**
 
