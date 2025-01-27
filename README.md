@@ -1,4 +1,4 @@
 ## Hi, I am Jasmine 👋👩‍💻
 
-![Introduction](jasminekgohil/Jasmine.gif)
+![introduction](Jasmine.gif)
 
